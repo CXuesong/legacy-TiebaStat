@@ -53,9 +53,5 @@ The *key* attribute is only used as a mnemonic and will be copied to output file
 ## TODO
 As you can see, this project is rather simple, and the analyze is only based on plain HTML code search. Maybe a HTML parser is needed.
 
-And based on it... maybe we can do some 大数据 lol...
-
-But before that, gotta finish my graduation project for a bachelor's degree...
-
 CXuesong a.k.a. *forest93*  
 2015-3-23
